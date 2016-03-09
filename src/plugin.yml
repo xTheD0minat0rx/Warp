@@ -1,0 +1,12 @@
+name: Warp
+version: 1.0
+main: me.dominator.warp.Main
+commands:
+  setwarp:
+    description: Set a warp!
+  warp:
+    description: Warp to a warp!
+  delwarp:
+    description: Delete a warp!
+  warpreload:
+    description: Reload the warp config
